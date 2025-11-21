@@ -11,7 +11,7 @@ La base de datos incluye:
 - 1 colección de dueños (owners)
 - 1 colección de mascotas (pets)
 - Inserción de **100 mascotas**
-- Consultas básicas, avanzadas y pipelines de agregación
+- Consultas básicas, avanzadas y agregación
 
 ---
 
@@ -29,3 +29,4 @@ La base de datos incluye:
 ### 1️⃣ Abrir MongoDB Shell
 ```bash
 mongosh
+
